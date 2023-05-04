@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0649: Do pola „Projectile.target” nigdy nie jest przypisywana wartość i będzie ono mieć zawsze wartość domyślną 
+dotnet_diagnostic.CS0649.severity = none
